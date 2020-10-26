@@ -30,7 +30,7 @@ body {
 
 .page-header a {
   margin-left: 56px;
-  color: #288be6;
+  color: #fff;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
@@ -38,12 +38,12 @@ body {
 
 .header-email {
   padding-left: 30px;
-  background-image: url("img/icon-email-header.svg");
+  background-image: url("img/icon-email-footer.svg");
 }
 
 .header-phone {
   padding-left: 25px;
-  background-image: url("img/icon-phone-header.svg");
+  background-image: url("img/icon-phone-footer.svg");
 }
 
 .hero-image {
@@ -171,7 +171,7 @@ body {
 
 .page-footer {
   padding: 40px 0;
-  background-color: #00417d;
+  background-color: #465574;
   color: #ffffff;
 }
 
